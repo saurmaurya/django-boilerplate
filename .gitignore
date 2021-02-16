@@ -1,0 +1,4 @@
+static_in_env
+env
+# ignore .env in production
+.env
